@@ -1,7 +1,12 @@
 #+TITLE: do not change this title
 #+OPTIONS: toc:nil timestamp:nil title:nil num:nil
 
-# Abstract must go first. Do not change header levels.
+# INSTRUCTIONS
+# - Edit this file. Abstract must be first heading. Do not change header levels.
+# - Run `make template.scm` to create the template.
+# - Edit the template.scm file.
+# - Run `make` to generate srfi-???.html, README.org, and index.html.
+# - Remember to delete tools/ directory and temporary files when publishing.
 
 ** Abstract
 :PROPERTIES:
